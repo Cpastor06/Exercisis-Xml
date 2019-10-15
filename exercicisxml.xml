@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplicacions>
+    <aplicacio>
+        <nom codi="1"> whatsapp </nom>
+        <descripcion> enviar mensajes </descripcion>
+        <tipus> missatges </tipus>
+        <fabricant> brian acton </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="2"> twitter </nom>
+        <descripcion> comunicarse con gente </descripcion>
+        <tipus> red social </tipus>
+        <fabricant> jack dorsey </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="3"> netflix </nom>
+        <descripcion> vuere series </descripcion>
+        <tipus> video </tipus>
+        <fabricant> Reed Hasting </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="4"> instagram </nom>
+        <descripcion> comunicarse con gente </descripcion>
+        <tipus> red social </tipus>
+        <fabricant> Kevin Systrom </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="5"> discord </nom>
+        <descripcion> comunicarse con gente </descripcion>
+        <tipus> red social </tipus>
+        <fabricant> discord </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="6"> gmail </nom>
+        <descripcion> enviar mensajes </descripcion>
+        <tipus> missatges </tipus>
+        <fabricant> paul buchheit </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="7"> youtube </nom>
+        <descripcion> vuere videos </descripcion>
+        <tipus> video </tipus>
+        <fabricant> Jawed karim </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="8"> twitch </nom>
+        <descripcion> vuere videos </descripcion>
+        <tipus> video </tipus>
+        <fabricant> justin kan </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="9"> pokemon go </nom>
+        <descripcion> videojoc pokemon </descripcion>
+        <tipus> videojoc </tipus>
+        <fabricant> Niantic </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="10"> HBO </nom>
+        <descripcion> vuere series </descripcion>
+        <tipus> video </tipus>
+        <fabricant> charles dolan </fabricant>
+    </aplicacio>
+</aplicacions>
